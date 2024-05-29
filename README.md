@@ -1,5 +1,5 @@
 # Multiple-Certificate-Automation
-This repo contains project files for a python based automation certificate automation
+This repo contains project files for a python based multiple certificate automation
 
 ### Features
 It is a multiple certificate generation tool based on Python.
