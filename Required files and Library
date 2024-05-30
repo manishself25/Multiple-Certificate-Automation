@@ -3,4 +3,10 @@ Required files and library to run py files successfully
 -- Certificate template in word file
 -- Excel file which contains required details 
 
-- Lib
+- Library 
+tkinter
+docxtpl
+tkcalendar
+datetime
+docx2pdf
+filedialog
